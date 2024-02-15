@@ -14,11 +14,9 @@ description: >-
 
 Reference:
 
-
+{% embed url="https://www.turing.com/kb/building-middleware-for-node-js" %}
 
 {% embed url="https://aws.amazon.com/what-is/middleware/" %}
-
-{% embed url="https://www.turing.com/kb/building-middleware-for-node-js" %}
 
 {% embed url="https://www.spiceworks.com/tech/cloud/articles/what-is-middleware/" %}
 
