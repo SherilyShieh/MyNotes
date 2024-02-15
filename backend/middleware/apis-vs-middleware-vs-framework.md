@@ -40,3 +40,10 @@ In summary, middleware is typically used for handling cross-cutting concerns and
 
 
 
+Middleware vs Framework
+
+A framework is something like a development environment that is primarily characterized by libraries. Frameworks may be used for development in general; whereas, middleware is primarily used for integration purposes. A framework used for integration may be referred to as a middleware framework.
+
+Reference:
+
+{% embed url="https://meta-guide.com/integration/artificial-intelligence-middleware" %}
